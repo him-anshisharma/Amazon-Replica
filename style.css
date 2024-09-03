@@ -24,7 +24,7 @@
 }
 
 .logo {
-    background-image: url("/Project Photos/clone amazon1.jpeg");
+    background-image: url("/clone amazon1.jpeg");
     background-size: cover;
     height: 50px;
     width: 113px;
@@ -112,7 +112,7 @@
 }
 
 .flag-icon {
-    background-image: url("/Project Photos/clone US flag.jpg");
+    background-image: url("/clone US flag.jpg");
     background-size: cover;
     height: 16.2px;
     width: 21.6px;
@@ -189,7 +189,7 @@ span {
 /**hero-section**/
 
 .hero-section {
-    background-image: url("/Project Photos/clone kitchen.jpg");
+    background-image: url("/clone kitchen.jpg");
     background-size: cover;
     height: 300px;
     display: flex;
